@@ -36,7 +36,7 @@ The goal is to evaluate whether adding higher-order geometric information (beyon
 
 ---
 
-### `04.Plot_loss.py`
+### `04.TrainingCurve`
 This script generates **training curves and diagnostic plots**, including:
 
 - training loss
@@ -59,6 +59,7 @@ Li, H., Wang, Z., Zou, N. et al.
 Nature Computational Science **2**, 367–377 (2022).  
 https://doi.org/10.1038/s43588-022-00265-6
 
+If you would like to use or install the DeepH package, please contact the authors of the above publication for access and further information.
 ---
 
 ## Dependencies
